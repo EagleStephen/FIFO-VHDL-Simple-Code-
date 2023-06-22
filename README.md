@@ -11,3 +11,5 @@ If you are importing into a main design, don't forget to add the component and d
 
 # Simaulation with DEPTH  34
 ![image](https://github.com/EagleStephen/FIFO-VHDL-Simple-Code-/assets/102225620/354f8400-10fd-4518-93c8-c5aac1ebb81f)
+
+## Click on the images to open in new tab

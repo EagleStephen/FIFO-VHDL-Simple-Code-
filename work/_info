@@ -1,0 +1,93 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/uf643mne/Documents/Design/Fifo/Version 2
+Efifo_tx
+Z1 w1686563215
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8fifo_tx.vhd
+Z6 Ffifo_tx.vhd
+l0
+L8
+Vd?VPR;lMAEUo3F^0E[OP50
+!s100 Ijge67h7nXF;cU;UAT_;=3
+Z7 OW;C;10.5c;63
+32
+Z8 !s110 1687429142
+!i10b 1
+Z9 !s108 1687429142.000000
+Z10 !s90 fifo_tx.vhd|
+Z11 !s107 fifo_tx.vhd|
+!i113 1
+o-O0
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+Z13 DEx4 work 7 fifo_tx 0 22 d?VPR;lMAEUo3F^0E[OP50
+l27
+L21
+V9e8P01jz<>G3c<_`[n2M^2
+!s100 8zb[JK3jEE[3Q`P7Pj5oD2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+o-O0
+R12
+Efifo_tx_tb
+Z14 w1686563582
+R2
+R3
+R4
+R0
+Z15 8fifo_tx_tb.vhd
+Z16 Ffifo_tx_tb.vhd
+l0
+L6
+V?fnERSSdeLT@k5S6ifb_j3
+!s100 SRz32PASV4;X3@Ufh]fNZ0
+R7
+32
+Z17 !s110 1687429145
+!i10b 1
+Z18 !s108 1687429145.000000
+Z19 !s90 fifo_tx_tb.vhd|
+Z20 !s107 fifo_tx_tb.vhd|
+!i113 1
+o-O0
+R12
+Abehavioral
+R13
+R2
+R3
+R4
+DEx4 work 10 fifo_tx_tb 0 22 ?fnERSSdeLT@k5S6ifb_j3
+l14
+L9
+V8TXGoW8Z=gXQg;0UmTGEF2
+!s100 m5XJPnQ>:LO@1GK9YiGE80
+R7
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+o-O0
+R12
